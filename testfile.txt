@@ -1,3 +1,8 @@
 This is test file for sample downloads
 And this is another commit from local machine
+<<<<<<< HEAD
 sfhg;lsehgshgsjghkjfghkfgh
+=======
+Hello this is SSH connection
+>>>>>>> 42afa5eec9fda786220fbce8c748392931d6fad3
+nnnnnn
